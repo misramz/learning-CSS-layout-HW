@@ -38,6 +38,12 @@
 
 }
 .image-caption {
-  float: right;
+float: right;
+}
+.authors {
+  display: inline-block;
 
+}
+.authors li {
+  list-style: none;
 }
