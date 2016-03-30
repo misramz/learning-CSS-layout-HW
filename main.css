@@ -23,13 +23,13 @@
   width: 10px;
   margin: 0px;*/
 .octocat {
-  border: 1px solid pink;
+  border: 1px solid grey;
   float: left;
   list-style: none;
 }
 .octocat img {
   width: 250px;
-  border: 1px solid red;
+  border: 1px solid grey;
 
 }
 .authors img {
@@ -46,4 +46,5 @@ float: right;
 }
 .authors li {
   list-style: none;
-}
+
+  }
