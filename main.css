@@ -1,0 +1,43 @@
+/*.octodex {
+  width: 600px;
+  margin: 0;
+}*/
+
+/*img {
+  width: 100px;
+  height: 100px;
+  /*float: left;*/
+/*}
+.octocat {
+  width: 100px;
+  height: 100px;
+  list-style: none;
+
+
+
+}
+/*.class {*/
+  /*margin-left: auto;*/
+/*}*/
+/*.image-footer {
+  width: 10px;
+  margin: 0px;*/
+.octocat {
+  border: 1px solid pink;
+  float: left;
+  list-style: none;
+}
+.octocat img {
+  width: 250px;
+  border: 1px solid red;
+
+}
+.authors img {
+  width: 30px;
+  float: right;
+
+}
+.image-caption {
+  float: right;
+
+}
