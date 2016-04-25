@@ -26,39 +26,63 @@
 
   float: left;
   list-style: none;
+  margin: 10px;
 }
 .octocat img {
   width: 300px;
-  border: 1px solid grey;
-  margin: 10px;
+  border: 1px solid lightgrey;
+  margin: 0px;
+  position: relative;
 
 }
 .authors img {
   width: 30px;
   float: right;
   margin: 0px;
+  border: none;
 
 }
 .image-caption {
 float: right;
-clear:
+display: inline-block;
+font-size: 14px;
+
+
+
 
 
 }
 .authors {
   display: inline-block;
+  margin-left: -34px;
 
 }
 .authors li {
   list-style: none;
+  display: inline-block;
 
   }
   .image-footer {
-    border-bottom: 1px solid lightgrey
+    border-bottom: 1px solid lightgrey;
+    margin: 0px;
+    display: inline-block;
+    position: absolute;
+    overflow: auto;
+    width: 300px;;
   }
   .image-number {
     color: grey;
+    display: inline-block;
+
   }
   span {
     color: grey;
+  }
+
+  .text
+  {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+
   }
